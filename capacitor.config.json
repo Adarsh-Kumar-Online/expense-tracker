@@ -1,0 +1,8 @@
+{
+  "appId": "com.expensetracker.app",
+  "appName": "Expense Tracker",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#f4f7f6"
+  }
+}
